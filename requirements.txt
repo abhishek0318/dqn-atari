@@ -1,0 +1,13 @@
+# DL framework
+torch>=1.1.0
+
+# For logging
+tensorboard==2.1.0
+tqdm
+
+# OpenAI Gym for the environment
+gym
+gym[atari]
+
+# Processing image
+scikit-image
